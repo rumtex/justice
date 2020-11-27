@@ -1,0 +1,3 @@
+http://5.189.96.193:8888/
+login: admin
+password: 123qweASD
